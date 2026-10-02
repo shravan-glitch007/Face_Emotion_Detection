@@ -1,4 +1,4 @@
-# 😃 Face Emotion Detection 
+# 😃 Face Emotion Recognition 
 
 ## 📌 Overview
 This project implements a Face Emotion Detection system using a pre-trained deep learning model. It captures an image using a webcam in Google Colab and predicts human emotions from facial expressions.
